@@ -1,9 +1,9 @@
-[submodule "sonos"]
-	path = sonos
-	url = https://github.com/chauncey-garrett/applescript-sonos.git
-[submodule "itunes"]
-	path = itunes
-	url = https://github.com/chauncey-garrett/applescript-itunes.git
 [submodule "omnifocus"]
 	path = omnifocus
-	url = https://github.com/chauncey-garrett/applescript-omnifocus.git
+	url = https://github.com/chauncey-garrett/scripts-omnifocus.git
+[submodule "sonos"]
+	path = sonos
+	url = https://github.com/chauncey-garrett/scripts-sonos.git
+[submodule "itunes"]
+	path = itunes
+	url = https://github.com/chauncey-garrett/scripts-itunes.git
