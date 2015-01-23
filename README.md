@@ -1,7 +1,7 @@
 ---
 layout: page_github_repo
 title: Scripts
-github-repo: scripts
+github_repo: scripts
 author: Chauncey Garrett
 published: true
 date:
