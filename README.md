@@ -57,4 +57,4 @@ Note that there are scripts here that I did NOT make and have only curated with 
 
   - [Chauncey Garrett](https://github.com/chauncey-garrett "chauncey-garrett")
 
-[![](/img/tip.gif)](http://chauncey.io/about/index.html#tip)
+[![]({{page.url}}img/tip.gif)](http://chauncey.io/reader-support/)
