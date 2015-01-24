@@ -22,7 +22,7 @@ If you plan on contributing back to the repository, add the following to `.git/c
 
 ## Like it?
 
-If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/scripts/issues "chauncey-garrett/scripts/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/scripts/pull-request "chauncey-garrett/scripts/pulls"). I'd love to expand this library as much as is possible.
+If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/scripts/issues "chauncey-garrett/scripts/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/scripts/pulls "chauncey-garrett/scripts/pulls"). I'd love to expand this library as much as is possible.
 
 ## Author(s)
 
