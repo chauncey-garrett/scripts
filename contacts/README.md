@@ -15,7 +15,7 @@ tags:
 - contacts
 category: project
 description: Scripts for OS X Contacts.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
