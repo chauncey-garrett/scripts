@@ -10,11 +10,11 @@ noindex: false
 permalink: /projects/scripts/
 external-url:
 tags:
-- scripts
-- github
+  - scripts
+  - github
 category: project
 description: A curated collection of scripts.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
