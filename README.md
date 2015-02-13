@@ -23,11 +23,11 @@ footer: true
 * Table of Contents placeholder (via kramdown)
 {:toc}
 
-# Scripts
+## Scripts
 
 A curated collection of scripts (including AppleScripts) that I have either made and/or commandeered.
 
-# Installation
+## Installation
 
 *NOTE: Each submodule may offer more useful installation instructions. Be sure to check them out as well. The below instructions will simply grab everything.*
 
@@ -45,11 +45,11 @@ If you plan on contributing back to the repository, add the following to `.git/c
 	smudge = "$(git rev-parse --show-toplevel)"/git-ascr-filter.sh --smudge %f"
 ```
 
-# Like it?
+## Like it?
 
 If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/scripts/issues "chauncey-garrett/scripts/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/scripts/pulls "chauncey-garrett/scripts/pulls"). I'd love to expand this library as much as is possible.
 
-# Author(s)
+## Author(s)
 
 Note that there are scripts here that I did NOT make and have only curated with this repository. If you found a particular script useful that I did not author, please send your support to that particular person. To the best of my ability, appropriate licensing and authorship information is provided for those scripts which I have not written.
 
