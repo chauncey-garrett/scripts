@@ -20,8 +20,6 @@ comments: false
 footer: true
 ---
 
-* Table of Contents placeholder (via kramdown)
-{:toc}
 
 ## Scripts
 
